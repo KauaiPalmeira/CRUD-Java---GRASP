@@ -1,0 +1,3 @@
+1;Banana;5.0;item alimenticio
+2;Gravata;50.0;camisa de tecido fino
+3;computador;50000.0;rtx 6090 - rx 32200g - 16gb memoria
